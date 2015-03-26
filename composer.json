@@ -10,7 +10,8 @@
 		"silverstripe/spamprotection": "2.0.x-dev",
 		"silverstripe/akismet": "3.2.x-dev",
 		"simplepie/simplepie": "dev-master",
-		"silverstripe/comments": "dev-master"
+		"silverstripe/comments": "dev-master",
+		"silverstripe/comment-notifications": "1.0.x-dev"
 	},
 	"repositories": [
 		{
