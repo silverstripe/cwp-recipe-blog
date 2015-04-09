@@ -3,13 +3,10 @@
 	"description": "CWP Blog Recipe metapackage",
 	"type": "silverstripe-module",
 	"require": {
-		"php": ">=5.3.2",
-		"cwp/cwp-core": "~1.0.6",
 		"silverstripe/blog": "2.0.x-dev",
 		"silverstripe/widgets": "1.1.x-dev",
 		"silverstripe/spamprotection": "2.0.x-dev",
 		"silverstripe/akismet": "3.2.x-dev",
-		"simplepie/simplepie": "dev-master",
 		"silverstripe/comments": "dev-master",
 		"silverstripe/comment-notifications": "1.0.x-dev"
 	},
