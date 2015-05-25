@@ -9,7 +9,7 @@
 		"silverstripe/akismet": "3.2.x-dev",
 		"silverstripe/comments": "2.0.x-dev",
 		"silverstripe/comment-notifications": "1.0.x-dev",
-		"silverstripe/content-widget": "dev-master"
+		"silverstripe/content-widget": "1.0.1"
 	},
 	"repositories": [
 		{
