@@ -10,7 +10,8 @@
 		"silverstripe/akismet": "3.2.0@stable",
 		"silverstripe/comments": "2.0.x-dev",
 		"silverstripe/comment-notifications": "1.0.x-dev",
-		"silverstripe/content-widget": "1.0.1"
+		"silverstripe/content-widget": "1.0.1",
+		"colymba/gridfield-bulk-editing-tools": "2.1.1.1"
 	},
 	"repositories": [
 		{
