@@ -4,7 +4,7 @@
 	"type": "silverstripe-module",
 	"require": {
 		"silverstripe/blog": "2.0.4",
-		"silverstripe/lumberjack": "1.1.0",
+		"silverstripe/lumberjack": "1.1.1",
 		"silverstripe/widgets": "1.1.1",
 		"silverstripe/spamprotection": "2.0.0",
 		"silverstripe/akismet": "3.2.0",
