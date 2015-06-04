@@ -3,7 +3,7 @@
 	"description": "CWP Blog Recipe metapackage",
 	"type": "silverstripe-module",
 	"require": {
-		"silverstripe/blog": "2.0.1",
+		"silverstripe/blog": "2.0.4",
 		"silverstripe/lumberjack": "1.1.0",
 		"silverstripe/widgets": "1.1.1",
 		"silverstripe/spamprotection": "2.0.0",
