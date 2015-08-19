@@ -11,7 +11,7 @@
 		"silverstripe/comments": "2.0.x-dev",
 		"silverstripe/comment-notifications": "1.0.x-dev",
 		"silverstripe/content-widget": "dev-master",
-		"colymba/gridfield-bulk-editing-tools": "dev-master as 2.1"
+		"colymba/gridfield-bulk-editing-tools": "2.1.2"
 	},
 	"repositories": [
 		{
