@@ -2,6 +2,7 @@
 	"name": "cwp/cwp-recipe-blog",
 	"description": "CWP Blog Recipe metapackage",
 	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "cwp"],
 	"require": {
 		"silverstripe/blog": "2.0.x-dev",
 		"silverstripe/lumberjack": "1.1.x-dev",
