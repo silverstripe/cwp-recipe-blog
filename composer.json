@@ -6,7 +6,7 @@
 	"require": {
 		"silverstripe/blog": "2.0.x-dev",
 		"silverstripe/lumberjack": "1.1.x-dev",
-		"silverstripe/widgets": "1.1.x-dev",
+		"silverstripe/widgets": "1.2.x-dev",
 		"silverstripe/spamprotection": "2.0.x-dev",
 		"silverstripe/akismet": "3.2.x-dev",
 		"silverstripe/comments": "2.0.x-dev",
