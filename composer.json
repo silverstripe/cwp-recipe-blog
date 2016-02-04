@@ -12,7 +12,7 @@
 		"silverstripe/comments": "2.0.3",
 		"silverstripe/comment-notifications": "1.0.1",
 		"silverstripe/content-widget": "1.0.3",
-		"colymba/gridfield-bulk-editing-tools": "~2.1.2"
+		"colymba/gridfield-bulk-editing-tools": "v2.1.4"
 	},
 	"repositories": [
 		{
