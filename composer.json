@@ -4,12 +4,12 @@
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "cwp"],
 	"require": {
-		"silverstripe/blog": "2.4.1",
+		"silverstripe/blog": "2.4.2",
 		"silverstripe/lumberjack": "1.1.x-dev",
 		"silverstripe/widgets": "1.2.x-dev",
 		"silverstripe/spamprotection": "2.0.x-dev",
 		"silverstripe/akismet": "3.2.3",
-		"silverstripe/comments": "2.1.0",
+		"silverstripe/comments": "2.1.1",
 		"silverstripe/comment-notifications": "1.0.1",
 		"silverstripe/content-widget": "1.0.3",
 		"colymba/gridfield-bulk-editing-tools": "~2.1.2"
