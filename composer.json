@@ -4,14 +4,14 @@
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "cwp"],
 	"require": {
-		"silverstripe/blog": "2.4.x-dev",
-		"silverstripe/lumberjack": "1.1.x-dev",
-		"silverstripe/widgets": "1.2.x-dev",
-		"silverstripe/spamprotection": "2.0.x-dev",
-		"silverstripe/akismet": "3.2.x-dev",
-		"silverstripe/comments": "2.1.x-dev",
-		"silverstripe/comment-notifications": "1.0.x-dev",
-		"silverstripe/content-widget": "1.0.x-dev",
+		"silverstripe/blog": "2.4.3",
+		"silverstripe/lumberjack": "1.1.5",
+		"silverstripe/widgets": "1.2.3",
+		"silverstripe/spamprotection": "2.0.5",
+		"silverstripe/akismet": "3.2.4",
+		"silverstripe/comments": "2.1.2",
+		"silverstripe/comment-notifications": "1.0.1",
+		"silverstripe/content-widget": "1.0.3",
 		"colymba/gridfield-bulk-editing-tools": "~2.1.6"
 	},
 	"repositories": [
