@@ -12,7 +12,7 @@
 		"silverstripe/comments": "2.1.2",
 		"silverstripe/comment-notifications": "1.0.1",
 		"silverstripe/content-widget": "1.0.3",
-		"colymba/gridfield-bulk-editing-tools": "~2.1.6"
+		"colymba/gridfield-bulk-editing-tools": "~2.1.6@stable"
 	},
 	"repositories": [
 		{
@@ -20,5 +20,5 @@
 			"url": "https://packages.cwp.govt.nz/"
 		}
 	],
-	"minimum-stability": "stable"
+	"minimum-stability": "dev"
 }
