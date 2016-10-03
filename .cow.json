@@ -1,0 +1,8 @@
+{
+  "upgrade-only": [
+    "colymba/gridfield-bulk-editing-tools"
+  ],
+  "vendors": [
+    "silverstripe"
+  ]
+}
