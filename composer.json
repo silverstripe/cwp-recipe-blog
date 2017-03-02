@@ -1,29 +1,28 @@
 {
-	"name": "cwp/cwp-recipe-blog",
-	"description": "CWP Blog Recipe metapackage",
-	"type": "silverstripe-module",
-	"keywords": ["silverstripe", "cwp"],
-	"require": {
-		"silverstripe/blog": "2.4.x-dev",
-		"silverstripe/lumberjack": "1.2.x-dev",
-		"silverstripe/widgets": "1.2.x-dev",
-		"silverstripe/spamprotection": "2.0.x-dev",
-		"silverstripe/akismet": "3.2.x-dev",
-		"silverstripe/comments": "2.1.x-dev",
-		"silverstripe/comment-notifications": "1.0.x-dev",
-		"silverstripe/content-widget": "1.0.x-dev",
-		"colymba/gridfield-bulk-editing-tools": "~2.1.6"
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "1.5.x-dev"
-		}
-	},
-	"repositories": [
-		{
-			"type": "composer",
-			"url": "https://packages.cwp.govt.nz/"
-		}
-	],
-	"minimum-stability": "dev"
+    "name": "cwp/cwp-recipe-blog",
+    "description": "CWP Blog Recipe metapackage",
+    "type": "silverstripe-module",
+    "keywords": [
+        "silverstripe",
+        "cwp"
+    ],
+    "require": {
+        "silverstripe/blog": "2.4.x-dev",
+        "silverstripe/lumberjack": "1.2.x-dev",
+        "silverstripe/widgets": "1.2.x-dev",
+        "silverstripe/spamprotection": "2.0.x-dev",
+        "silverstripe/akismet": "3.2.x-dev",
+        "silverstripe/comments": "2.1.x-dev",
+        "silverstripe/comment-notifications": "1.0.x-dev",
+        "silverstripe/content-widget": "1.0.x-dev",
+        "colymba/gridfield-bulk-editing-tools": "~2.1.6"
+    },
+    "extra": [],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.cwp.govt.nz/"
+        }
+    ],
+    "minimum-stability": "dev"
 }
