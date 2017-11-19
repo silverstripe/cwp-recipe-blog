@@ -18,11 +18,7 @@
         "silverstripe/content-widget": "1.0.x-dev",
         "colymba/gridfield-bulk-editing-tools": "~2.1.6"
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.8.x-dev"
-        }
-    },
+    "extra": [],
     "repositories": [
         {
             "type": "composer",
