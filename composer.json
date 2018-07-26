@@ -8,15 +8,15 @@
         "cwp"
     ],
     "require": {
-        "silverstripe/blog": "2.5.x-dev",
-        "silverstripe/lumberjack": "1.3.x-dev",
-        "silverstripe/widgets": "1.3.x-dev",
-        "silverstripe/spamprotection": "2.0.x-dev",
-        "silverstripe/akismet": "3.2.x-dev",
-        "silverstripe/comments": "2.1.x-dev",
-        "silverstripe/comment-notifications": "1.0.x-dev",
-        "silverstripe/content-widget": "1.0.x-dev",
-        "colymba/gridfield-bulk-editing-tools": "~2.1.6"
+        "silverstripe/blog": "2.5.2@stable",
+        "silverstripe/lumberjack": "1.3.3@stable",
+        "silverstripe/widgets": "1.3.1@stable",
+        "silverstripe/spamprotection": "2.0.8@stable",
+        "silverstripe/akismet": "3.2.7@stable",
+        "silverstripe/comments": "2.1.7@stable",
+        "silverstripe/comment-notifications": "1.0.2@stable",
+        "silverstripe/content-widget": "1.0.5@stable",
+        "colymba/gridfield-bulk-editing-tools": "2.1.10@stable"
     },
     "extra": {
         "branch-alias": {
