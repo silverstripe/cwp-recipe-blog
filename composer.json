@@ -19,5 +19,6 @@
         "colymba/gridfield-bulk-editing-tools": "~2.1.6"
     },
     "extra": [],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "abandoned": "silverstripe/recipe-blog"
 }
